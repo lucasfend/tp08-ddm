@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.appfirestore.app-mergeDebugResources-44:/layout/activity_lista_produtos.xml",
+        "source": "com.example.appfirestore.app-main-47:/layout/activity_lista_produtos.xml"
+    },
+    {
+        "merged": "com.example.appfirestore.app-mergeDebugResources-44:/layout/item_produto.xml",
+        "source": "com.example.appfirestore.app-main-47:/layout/item_produto.xml"
+    },
+    {
+        "merged": "com.example.appfirestore.app-mergeDebugResources-44:/layout/activity_cadastro_produto.xml",
+        "source": "com.example.appfirestore.app-main-47:/layout/activity_cadastro_produto.xml"
+    }
+]

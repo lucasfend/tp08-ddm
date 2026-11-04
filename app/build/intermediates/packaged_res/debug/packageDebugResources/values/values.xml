@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6F00</color>
+    <color name="badge_bg">#E3F2FD</color>
+    <color name="bg_light">#F5F7FA</color>
+    <color name="black">#FF000000</color>
+    <color name="danger">#D32F2F</color>
+    <color name="price_green">#15803D</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AppFirestoreProdutos</string>
+    <string name="btn_atualizar_lista">Atualizar Lista</string>
+    <string name="btn_cadastrar_produto">Cadastrar Produto</string>
+    <string name="btn_ver_lista_produtos">Ver Lista de Produtos</string>
+    <string name="btn_voltar_cadastro">Cadastrar Novo Produto</string>
+    <string name="gcm_defaultSenderId" translatable="false">140022407267</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKF_CoThcYRWGlxHp5z_NG3PsVfmgYUIM</string>
+    <string name="google_app_id" translatable="false">1:140022407267:android:942a47cefd8ac60a361856</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKF_CoThcYRWGlxHp5z_NG3PsVfmgYUIM</string>
+    <string name="google_storage_bucket" translatable="false">tp07-ddm.firebasestorage.app</string>
+    <string name="hint_categoria_produto">Categoria</string>
+    <string name="hint_nome_produto">Nome do Produto</string>
+    <string name="hint_preco_produto">Preço (R$)</string>
+    <string name="project_id" translatable="false">tp07-ddm</string>
+    <string name="subtitulo_cadastro_produto">Coleção: Produtos • Documento: Autogerado</string>
+    <string name="subtitulo_lista_produtos">Produtos recuperados da coleção Produtos no Cloud Firestore</string>
+    <string name="titulo_cadastro_produto">Cadastro de Produtos</string>
+    <string name="titulo_lista_produtos">Lista de Produtos</string>
+    <string name="txt_lista_vazia">Nenhum produto encontrado na coleção Produtos.</string>
+    <style name="Base.Theme.AppFirestore" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+    </style>
+    <style name="Theme.AppFirestore" parent="Base.Theme.AppFirestore"/>
+</resources>

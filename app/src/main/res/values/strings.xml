@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFirestoreProdutos</string>
+    <string name="titulo_cadastro_produto">Cadastro de Produtos</string>
+    <string name="subtitulo_cadastro_produto">Coleção: Produtos • Documento: Autogerado</string>
+    <string name="hint_nome_produto">Nome do Produto</string>
+    <string name="hint_categoria_produto">Categoria</string>
+    <string name="hint_preco_produto">Preço (R$)</string>
+    <string name="btn_cadastrar_produto">Cadastrar Produto</string>
+    <string name="btn_ver_lista_produtos">Ver Lista de Produtos</string>
+    <string name="titulo_lista_produtos">Lista de Produtos</string>
+    <string name="subtitulo_lista_produtos">Produtos recuperados da coleção Produtos no Cloud Firestore</string>
+    <string name="txt_lista_vazia">Nenhum produto encontrado na coleção Produtos.</string>
+    <string name="btn_atualizar_lista">Atualizar Lista</string>
+    <string name="btn_voltar_cadastro">Cadastrar Novo Produto</string>
+</resources>
